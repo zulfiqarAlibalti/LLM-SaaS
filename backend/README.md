@@ -1,11 +1,7 @@
 
-# MERN Stack AI Chatbot
+# LLM-SaaS
 
-This is an AI Chatbot application, inspired by ChatGPT, by using MERN Stack and OpenAI
+LLM-SaaS (Large Language Modeling - Software as a Service) is an innovative platform harnessing the power of Large Language Models, driven by OpenAI's API, to provide a cutting-edge language modeling and learning experience.
 
-It's a customized chatbot where each message of the user is stored in DB and can be retrieved and deleted.
-
-It's a completely secure application using JWT Tokens, HTTP-Only Cookies, Signed Cookies, Password Encryption, and Middleware Chains.
-
-Contributions are welcome
-
+# Features
+<li>Advanced Language Modeling:</li>
