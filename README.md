@@ -25,8 +25,23 @@ LLM-SaaS revolutionizes language modeling and learning through cutting-edge tech
 
 <code>git clone https://github.com/your-username/LLM-SaaS.git
 </code>
-- Navigate to the Project Directory:
+- ### Navigate to the Project Directory:
 - Open a terminal or command prompt and navigate to the cloned repository directory:
-  <code> cd LLM-SaaS</code>
+  
+-  <code> cd LLM-SaaS</code>
 
+  - ### Install Dependencies:
+- Run npm install to install all the necessary dependencies for the project.
+  
+-  <code> npm install</code>
+
+   - ### Run the Development Server:
+- Once the dependencies are installed, start the development server to run the project locally:
+  
+-  <code> npm run dev</code>
+
+ - ### Access the Application:
+-  Open a web browser and navigate to the provided local URL (e.g., http://localhost:5173/) to view and interact with your LLM-SaaS application running in the development environment.
+  
+-  <code> npm run dev</code>
 
