@@ -20,8 +20,12 @@ LLM-SaaS (Large Language Modeling - Software as a Service) is an innovative plat
 LLM-SaaS revolutionizes language modeling and learning through cutting-edge technologies. This repository contains the front-end implementation, focusing on providing a seamless and secure user experience with advanced language modeling features.
 
 ## Instructions:
--- Clone the Repository:
--- Clone the LLM-SaaS repository to your local machine if you haven't already.
+- Clone the Repository:
+- Clone the LLM-SaaS repository to your local machine if you haven't already.
 
 <code>git clone https://github.com/your-username/LLM-SaaS.git
+</code>
+- Navigate to the Project Directory:
+- Open a terminal or command prompt and navigate to the cloned repository directory:
+<code>cd LLM-SaaS
 </code>
