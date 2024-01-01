@@ -27,5 +27,7 @@ LLM-SaaS revolutionizes language modeling and learning through cutting-edge tech
 </code>
 - Navigate to the Project Directory:
 - Open a terminal or command prompt and navigate to the cloned repository directory:
-<code>cd LLM-SaaS
+  
+<code>
+cd LLM-SaaS
 </code>
