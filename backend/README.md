@@ -9,3 +9,18 @@ LLM-SaaS (Large Language Modeling - Software as a Service) is an innovative plat
 <li><b>Secure Authentication and Authorization:</b></li>Complete authentication features built with React and Vite, ensuring robust security for user sign-in and login functionalities.
 <li><b>Immersive Language Learning: </b></li>Enhancing language learning experiences through interactive interfaces powered by React and Vite.
 
+## Technologies Used
+
+<li><b>Front-End:  </b></li>React, Vite, Material View etc
+<li><b>Language Modeling: </b></li> OpenAI's API for Large Language Models
+<li><b>Authentication:</b></li> Customized authentication and authorization mechanisms
+<li><b>User Experience: </b></li> Intuitive interfaces for seamless learning interactions
+
+## About
+LLM-SaaS revolutionizes language modeling and learning through cutting-edge technologies. This repository contains the front-end implementation, focusing on providing a seamless and secure user experience with advanced language modeling features.
+
+## Instructions:
+-- Clone the Repository:
+-- Clone the LLM-SaaS repository to your local machine if you haven't already.
+<code>git clone https://github.com/your-username/LLM-SaaS.git
+</code>
