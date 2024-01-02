@@ -45,3 +45,4 @@ LLM-SaaS revolutionizes language modeling and learning through cutting-edge tech
   
 -  <code> npm run dev</code>
 
+[![Click to play video](./frontend/public/screenshotmern.png)](./frontend/public/demo2.mp4)
